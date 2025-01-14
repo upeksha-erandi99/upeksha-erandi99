@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Upeksha Erandi!</h1>
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkybDdzZ2hpaHJtb2IzaHF2YTFqZm11dGpzdDhzcHdka3Z6aGwyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkybDdzZ2hpaHJtb2IzaHF2YTFqZm11dGpzdDhzcHdka3Z6aGwyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
 ---
@@ -42,6 +42,6 @@
 ### :woman_technologist: Statistics :
 
 
-![Sathira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathira443&show_icons=true&theme=synthwave)
+![Upeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=upeksha-erandi99&show_icons=true&theme=synthwave)
 
-![](https://komarev.com/ghpvc/?username=Sathira443)
+![](https://komarev.com/ghpvc/?username=upeksha-erandi99)

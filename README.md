@@ -12,7 +12,7 @@
 
 - :zap: In my free time, I solve problems on Hackerrank and try to explore new technologies.
 
-- :mailbox:How to reach me: www.linkedin.com/in/upeksha-erandi
+- :mailbox:How to reach me: https://www.linkedin.com/in/upeksha-erandi-dasanayake/
 
 ---
 
